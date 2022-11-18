@@ -50,7 +50,7 @@ def get_listings_from_search_results(html_file):
 
  
 
-
+ 
 def get_listing_information(listing_id):
     """
     Write a function to return relevant information in a tuple from an Airbnb listing id.
