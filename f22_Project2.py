@@ -46,7 +46,7 @@ def get_listings_from_search_results(html_file):
 
     return listing_info_list
 
-
+ 
 
 
 
